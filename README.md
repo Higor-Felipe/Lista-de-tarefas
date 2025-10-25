@@ -25,3 +25,25 @@ O objetivo principal é fornecer uma ferramenta funcional para gerenciar tarefas
   - **CSS3**: Estilização do layout, com Flexbox para organização e media queries para responsividade.
   - **JavaScript**: Lógica para manipulação do DOM, gerenciamento de tarefas e integração com LocalStorage.
   - **LocalStorage**: Armazenamento local para persistência de dados
+
+### Uso
+
+  - **Adicionar uma tarefa**:
+Digite o texto da tarefa no campo de entrada.
+Pressione Enter ou clique no botão "Adicionar".
+A tarefa aparecerá na lista abaixo com os botões "Concluir" e "Excluir".
+
+  - **Concluir uma tarefa**:
+Clique no botão "Concluir" ao lado da tarefa.
+A tarefa será marcada como concluída e removida automaticamente.
+
+  - **Excluir uma tarefa**:
+Clique no botão "Excluir" para remover a tarefa sem marcá-la como concluída.
+
+  - **Limpar todas as tarefas**:
+Clique no botão "Limpar Tarefas".
+Confirme no pop-up para esvaziar a lista.
+
+  - **Persistência**:
+As tarefas são salvas automaticamente no LocalStorage.
+Ao recarregar a página, as tarefas salvas aparecerão imediatamente.
