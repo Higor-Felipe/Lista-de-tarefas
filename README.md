@@ -44,3 +44,9 @@ Confirme no pop-up para esvaziar a lista.
   - **Persistência**:
 As tarefas são salvas automaticamente no LocalStorage.
 Ao recarregar a página, as tarefas salvas aparecerão imediatamente.
+
+### Contato
+Para dúvidas, sugestões ou problemas, entre em contato:
+  - Autor: Higor Felipe
+  - E-mail: higor.mellosoares@gmail.com
+  - GitHub: Higor-Felipe
