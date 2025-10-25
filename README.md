@@ -21,7 +21,7 @@ O objetivo principal é fornecer uma ferramenta funcional para gerenciar tarefas
 
 ### Tecnologias Utilizadas:
 
-  - __HTML5__: Estrutura da página.
-  - __CSS3__: Estilização do layout, com Flexbox para organização e media queries para responsividade.
-  - __JavaScript__: Lógica para manipulação do DOM, gerenciamento de tarefas e integração com LocalStorage.
-  - __LocalStorage__: Armazenamento local para persistência de dados
+  - **HTML5**: Estrutura da página.
+  - **CSS3**: Estilização do layout, com Flexbox para organização e media queries para responsividade.
+  - **JavaScript**: Lógica para manipulação do DOM, gerenciamento de tarefas e integração com LocalStorage.
+  - **LocalStorage**: Armazenamento local para persistência de dados
