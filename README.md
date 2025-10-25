@@ -7,6 +7,7 @@ O objetivo principal é fornecer uma ferramenta funcional para gerenciar tarefas
 ### Funcionalidades:
 
   - **Adicionar tarefas:**
+
       Insira uma nova tarefa pelo campo de texto e pressione Enter ou clique no botão "Adicionar".
   - **Concluir Tarefas:**
       Clique no botão "Concluir" para marcar uma tarefa como concluída (riscada) e excluí-la automaticamente da lista.
