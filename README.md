@@ -1,8 +1,7 @@
 # Lista-de-tarefas
 ## Este projeto é uma aplicação web simples de Lista de Tarefas que permite ao usuário adicionar, marcar como concluída, excluir e limpar tarefas.
 
-## Link:
-https://higor-felipe.github.io/Lista-de-tarefas/
+## Link: https://higor-felipe.github.io/Lista-de-tarefas/
 
 ### Objetivo:
 O objetivo principal é fornecer uma ferramenta funcional para gerenciar tarefas diárias, com uma interface intuitiva e recursos básicos, como marcar tarefas como concluídas com exclusão automática e limpar todas as tarefas com confirmação.
